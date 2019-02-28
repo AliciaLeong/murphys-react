@@ -15,6 +15,11 @@
   color: white;
 }
 
+.vertical {
+  height: 500px;
+  vertical-align: center;
+}
+
 .right.floated.center.aligned.hbtitle.column {
   padding-top: 300px;
 }
